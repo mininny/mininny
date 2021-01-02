@@ -8,7 +8,7 @@
   <p>I also have a <a href="https://www.mininny.dev">tech blog</a>, so check it out!</p>
   
   [![](https://img.shields.io/badge/-Minhyuk%20Kim-blue?logo=linkedin)](https://www.linkedin.com/in/mininnykim/)
-  [![](https://img.shields.io/badge/-Blog-333333)](https://www.mininny.dev/)
+  [![](https://img.shields.io/badge/-Blog-333333)](https://mininny.dev/)
 </div>
 
 *****
