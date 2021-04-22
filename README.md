@@ -22,4 +22,4 @@
 
 ### Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sendbird&repo=sendbird-calls-ios)](https://github.com/sendbird/sendbird-calls-ios)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sendbird&repo=quickstart-calls-ios)](https://github.com/sendbird/quickstart-calls-ios)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sendbird&repo=quickstart-calls-directcall-ios)](https://github.com/sendbird/quickstart-calls-directcall-ios)
