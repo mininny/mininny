@@ -10,3 +10,5 @@
   [![](https://img.shields.io/badge/-Minhyuk%20Kim-blue?logo=linkedin)](https://www.linkedin.com/in/mininnykim/)
   [![](https://img.shields.io/badge/-Blog-333333)](https://mininny.dev/)
 </div>
+
+하이 민혁 ㅎㅎ 나 맞팔해줘요(굽신굽신)
